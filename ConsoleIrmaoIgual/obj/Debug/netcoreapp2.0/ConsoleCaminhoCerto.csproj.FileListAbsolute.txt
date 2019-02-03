@@ -1,0 +1,11 @@
+C:\Workspace\caminhocerto\ConsoleIrmaoIgual\bin\Debug\netcoreapp2.0\ConsoleCaminhoCerto.deps.json
+C:\Workspace\caminhocerto\ConsoleIrmaoIgual\bin\Debug\netcoreapp2.0\ConsoleCaminhoCerto.runtimeconfig.json
+C:\Workspace\caminhocerto\ConsoleIrmaoIgual\bin\Debug\netcoreapp2.0\ConsoleCaminhoCerto.runtimeconfig.dev.json
+C:\Workspace\caminhocerto\ConsoleIrmaoIgual\bin\Debug\netcoreapp2.0\ConsoleCaminhoCerto.dll
+C:\Workspace\caminhocerto\ConsoleIrmaoIgual\bin\Debug\netcoreapp2.0\ConsoleCaminhoCerto.pdb
+C:\Workspace\caminhocerto\ConsoleIrmaoIgual\obj\Debug\netcoreapp2.0\ConsoleCaminhoCerto.csproj.CoreCompileInputs.cache
+C:\Workspace\caminhocerto\ConsoleIrmaoIgual\obj\Debug\netcoreapp2.0\ConsoleCaminhoCerto.AssemblyInfoInputs.cache
+C:\Workspace\caminhocerto\ConsoleIrmaoIgual\obj\Debug\netcoreapp2.0\ConsoleCaminhoCerto.AssemblyInfo.cs
+C:\Workspace\caminhocerto\ConsoleIrmaoIgual\obj\Debug\netcoreapp2.0\ConsoleCaminhoCerto.dll
+C:\Workspace\caminhocerto\ConsoleIrmaoIgual\obj\Debug\netcoreapp2.0\ConsoleCaminhoCerto.pdb
+C:\Workspace\caminhocerto\ConsoleIrmaoIgual\obj\Debug\netcoreapp2.0\ConsoleCaminhoCerto.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Workspace\arvorebinaria-master\ConsoleIrmaoIgual\obj\Debug\netcoreapp2.0\ConsoleCaminhoCurto.csprojAssemblyReference.cache
+C:\Workspace\arvorebinaria-master\ConsoleIrmaoIgual\obj\Debug\netcoreapp2.0\ConsoleCaminhoCurto.csproj.CoreCompileInputs.cache
+C:\Workspace\arvorebinaria-master\ConsoleIrmaoIgual\obj\Debug\netcoreapp2.0\ConsoleCaminhoCurto.AssemblyInfoInputs.cache
+C:\Workspace\arvorebinaria-master\ConsoleIrmaoIgual\obj\Debug\netcoreapp2.0\ConsoleCaminhoCurto.AssemblyInfo.cs
+C:\Workspace\caminhocurto\ConsoleIrmaoIgual\obj\Debug\netcoreapp2.0\ConsoleCaminhoCurto.csproj.CoreCompileInputs.cache
+C:\Workspace\caminhocurto\ConsoleIrmaoIgual\obj\Debug\netcoreapp2.0\ConsoleCaminhoCurto.AssemblyInfoInputs.cache
+C:\Workspace\caminhocurto\ConsoleIrmaoIgual\obj\Debug\netcoreapp2.0\ConsoleCaminhoCurto.AssemblyInfo.cs
+C:\Workspace\caminhocurto\ConsoleIrmaoIgual\bin\Debug\netcoreapp2.0\ConsoleCaminhoCurto.deps.json
+C:\Workspace\caminhocurto\ConsoleIrmaoIgual\bin\Debug\netcoreapp2.0\ConsoleCaminhoCurto.runtimeconfig.json
+C:\Workspace\caminhocurto\ConsoleIrmaoIgual\bin\Debug\netcoreapp2.0\ConsoleCaminhoCurto.runtimeconfig.dev.json
+C:\Workspace\caminhocurto\ConsoleIrmaoIgual\bin\Debug\netcoreapp2.0\ConsoleCaminhoCurto.dll
+C:\Workspace\caminhocurto\ConsoleIrmaoIgual\bin\Debug\netcoreapp2.0\ConsoleCaminhoCurto.pdb
+C:\Workspace\caminhocurto\ConsoleIrmaoIgual\obj\Debug\netcoreapp2.0\ConsoleCaminhoCurto.dll
+C:\Workspace\caminhocurto\ConsoleIrmaoIgual\obj\Debug\netcoreapp2.0\ConsoleCaminhoCurto.pdb
